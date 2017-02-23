@@ -35,4 +35,7 @@ public class Pokemon {
         mNumber = number;
     }
 
+    public int getNumber() {
+        return mNumber;
+    }
 }
